@@ -1,6 +1,6 @@
 title: Writing
 ---
-To create a new post or a new page, you can run the following command:
+To create a new post or a new page, you can run the following command:!!
 
 ``` bash
 $ hexo new [layout] <title>
