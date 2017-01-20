@@ -1,4 +1,4 @@
-##### Nube IO!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+## Nube IO
 
 
 ## Getting started
@@ -22,3 +22,5 @@ Run server:
 ``` bash
 $ hexo server
 ```
+
+Made from hexo! Thanks guys
